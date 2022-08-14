@@ -1,2 +1,2 @@
 # WebScrapping
-These programs scrap data of cryptocurrencies and weather using beautifulsoup and requests.
+These programs scrap data of cryptocurrencies and weather updates using beautifulsoup and requests.
